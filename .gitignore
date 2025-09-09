@@ -1,0 +1,6 @@
+artifacts/
+cache/
+db/
+resources/vrp
+.replxx_history
+# Ignorar arquivos temporários do sistema
